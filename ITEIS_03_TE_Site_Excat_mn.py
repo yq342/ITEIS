@@ -87,7 +87,7 @@ while line1:
                 pass
             if "H" not in cigar:
                 cox = cox + 1
-            if cox >= 20:
+            if cox >= 25:
                 Is_Eff = False
 
 
